@@ -45,7 +45,7 @@ For Mac and Linux → Go to the terminal.<br>
 Run the following commands to clone and create your feature branch:
 
 ```bash
-git clone git@github.com:michael-neis/node-js-demo.git
+git clone git@github.com:Mulambo97/node-js-demo.git
 cd node-js-demo
 git checkout -b feature/yourBranchName
 ```
